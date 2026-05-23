@@ -1,5 +1,4 @@
-<img width="1327" height="747" alt="Ecommerece_Dashboard" src="https://github.com/user-attachments/assets/32708425-3831-4e9f-8ad2-da0427274d8a" /><img width="1327" height="747" alt="Ecommerece_Dashboard" src="https://github.com/user-attachments/assets/70ed8349-b8a2-4f60-81e4-38d5495bd81d" />
-<img width="1327" height="747" alt="Ecommerece_Dashboard" src="https://github.com/user-attachments/assets/8df96e3b-c7f4-4a81-9032-7803e6bab7dd" />
+
 # E-Commerce Sales Dashboard | Power BI
 
 ## Project Overview
@@ -53,7 +52,7 @@ This dashboard helps answer important business questions such as:
 # Dashboard Preview
 
 ## Main Dashboard
-
+<img width="1327" height="747" alt="Ecommerece_Dashboard" src="https://github.com/user-attachments/assets/32708425-3831-4e9f-8ad2-da0427274d8a" />
 
 
 
