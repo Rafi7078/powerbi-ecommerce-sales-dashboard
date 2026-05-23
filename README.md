@@ -53,7 +53,7 @@ This dashboard helps answer important business questions such as:
 # Dashboard Preview
 
 ## Main Dashboard
-<img width="1327" height="747" alt="Ecommerece_Dashboard" src="https://github.com/user-attachments/assets/f18f7463-01fb-4cdc-9b4c-fb9a9fcc42bd" />
+
 
 
 
